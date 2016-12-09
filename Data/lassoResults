@@ -1,0 +1,12 @@
+['killsPerSession', 'assistsPerSession', 'deathsPerSession', 'goldPerSession', 'minionKillsPerSession', 'healsPerSession', 'averageDamagePerSession', 'magicDamagePerSession', 'physicalDamageDealtPerSession']
+9
+['killsPerSession', 'assistsPerSession', 'deathsPerSession', 'goldPerSession', 'minionKillsPerSession', 'healsPerSession', 'averageDamagePerSession', 'magicDamagePerSession', 'physicalDamageDealtPerSession']
+[False False False  True False  True False False False]
+[7 6 8 1 2 1 5 3 4]
+
+['killsPerSession', 'assistsPerSession', 'deathsPerSession', 'goldPerSession', 'minionKillsPerSession', 'healsPerSession', 'averageDamagePerSession', 'magicDamagePerSession', 'physicalDamageDealtPerSession']
+9
+['killsPerSession', 'assistsPerSession', 'deathsPerSession', 'goldPerSession', 'minionKillsPerSession', 'healsPerSession', 'averageDamagePerSession', 'magicDamagePerSession', 'physicalDamageDealtPerSession']
+[ True False  True  True False False False False False]
+[1 7 1 1 6 2 5 3 4]
+[Finished in 1709.6s]
